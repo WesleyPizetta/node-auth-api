@@ -1,2 +1,2 @@
 # node-auth-api
-Building an API by using Node + Express + MongoDB. It's just for study 
+Building an API by using Node + Express + MongoDB. Checkout the "dev" branch to see my progress.
